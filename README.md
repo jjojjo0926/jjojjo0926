@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=jaewon0926's%20Github&desc=BackEnd%20Development%20Log&fontAlign=70&Desc&descAlign=83)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=jaewon0926's%20Github&desc=BackEnd%20Development%20Log&fontAlign=55&Desc&descAlign=80)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
