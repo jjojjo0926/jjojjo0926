@@ -52,14 +52,14 @@
 
 <div align="center">
   
-![jaewon0926's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaewon0926&show_icons=true&theme=transparent)
+![jjojjo0926's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjojjo0926&show_icons=true&theme=transparent)
 </div>
 
 <br>
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewon0926&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjojjo0926&layout=compact)
 </div>
 
 <br>
